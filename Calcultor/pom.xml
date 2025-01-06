@@ -21,7 +21,7 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<classpathPrefix>lib/</classpathPrefix>
-							<mainClass>MyCalc</mainClass>
+							<mainClass>Calculator.MyCalc</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
